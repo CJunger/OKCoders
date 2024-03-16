@@ -1,5 +1,5 @@
 body {
-    background-color: #d5d5d5;
+    background-color: #edf2ff;
     font-family: sans-serif, Arial;
     text: black;
     /* width: 100% */
@@ -16,7 +16,7 @@ nav ul li {
     color: black;
 }
 a:hover {
-    color: orange;
+    color: #1864ab;
 }
 a{
     text-decoration: none;
