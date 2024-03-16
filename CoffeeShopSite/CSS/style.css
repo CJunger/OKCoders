@@ -1,0 +1,54 @@
+body {
+    background-color: #edf2ff;
+    font-family: sans-serif, Arial;
+    text: black;
+    /* width: 100% */
+}
+
+nav ul li {
+    align-content: center;
+    align-items: center;
+    display:inline;
+    margin: 1em auto;
+    text-align: center;
+    padding: 20px;
+    width:auto;
+    color: black;
+}
+a:hover {
+    color: #1864ab;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#writeUs {
+    /* display:inline-block;
+    text: black;
+    text-align: center;
+    margin: ;
+    padding: ;
+} */
+
+h2 {
+    font-family: sans-serif, arial;
+    font-size: 45px;
+    text:black;
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    float: left;
+    position: relative;
+    border: none;
+    padding: 10px
+}
+fieldset {
+    padding:8px, 16px;
+}
+
+border
