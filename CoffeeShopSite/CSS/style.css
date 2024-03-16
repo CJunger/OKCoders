@@ -5,6 +5,13 @@ body {
     /* width: 100% */
 }
 
+header {
+    background-image: url(../images/yianni-mathioudakis-ueOilE1blwQ-unsplash.jpg);
+    background-size:cover;
+    display: flexbox;
+    flex-direction: column;
+}
+
 nav ul li {
     align-content: center;
     align-items: center;
@@ -22,13 +29,15 @@ a{
     text-decoration: none;
     color: black;
 }
-#writeUs {
-    /* display:inline-block;
-    text: black;
-    text-align: center;
-    margin: ;
-    padding: ;
-} */
+.writeUs {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: flex-end;
+} 
 
 h2 {
     font-family: sans-serif, arial;
@@ -50,5 +59,3 @@ form {
 fieldset {
     padding:8px, 16px;
 }
-
-border
