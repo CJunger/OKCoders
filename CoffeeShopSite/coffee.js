@@ -26,3 +26,6 @@ function displayAvatar() {
     loginbutton.style.display = 'none';
     document.getElementById('avatar').innerText = avatar;
 }
+
+const shoppingCartObject = {}
+function shoppingCartItem() {}
